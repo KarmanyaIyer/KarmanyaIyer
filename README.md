@@ -1,4 +1,13 @@
 ## Hi there 👋
+Decided to learn programming this year, so here we are.
+
+Projects so far (in order):
+1. Transit Schedule Scraper
+2. Portfolio Optimization Toolkit
+3. Business Development Dashboard
+4. FocusNuke - Distraction Blocker for YouTube
+5. more...
+
 
 <!--
 **KarmanyaIyer/KarmanyaIyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
