@@ -8,6 +8,7 @@ Projects so far (in order):
 4. FocusNuke - Distraction Blocker for YouTube
 5. more...
 
+<meta name="google-site-verification" content="_op2QgpuFni-MPwA99gBSqhiVLvhW4vz8YoqRSxtdE8" />
 
 <!--
 **KarmanyaIyer/KarmanyaIyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
