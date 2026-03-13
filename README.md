@@ -1,5 +1,6 @@
 ## Hi there 👋
-Decided to learn programming this year, so here we are.
+
+Started learning Python & C++ this year
 
 Projects so far (in order):
 1. Transit Schedule Parser
