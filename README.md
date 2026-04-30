@@ -1,8 +1,10 @@
 ## Hi there 👋
 
+📫 How to reach me: dm on linkedin
+
 Started learning Python & C++ this year
 
-Projects so far (in order):
+## Projects so far (in order):
 1. Transit Schedule Parser
 2. Portfolio Optimization Toolkit
 3. Business Planning & Operations Dashboard
