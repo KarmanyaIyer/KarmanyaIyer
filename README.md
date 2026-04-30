@@ -7,7 +7,7 @@ Projects so far (in order):
 2. Portfolio Optimization Toolkit
 3. Business Planning & Operations Dashboard
 4. FocusNuke - Distraction Blocker for YouTube
-5. WIP: Local LLM Market Sentiment Research Tools
+5. WIP: Expanding FocusNuke to other sites/apps
 6. more...
 
 
