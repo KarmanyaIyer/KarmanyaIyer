@@ -8,7 +8,7 @@ Started learning Python & C++ this year
 3. Business Planning & Operations Dashboard
 4. FocusNuke - Minimalist Distraction Blocker (+ Notes) for YouTube -> [Chrome Extension](https://chromewebstore.google.com/detail/focus-nuke/bomnpopkmjiiibmhembapkglmpnenojg)
 5. Gmail MCP & Chrome Browser Agent 
-6. WIP: Expanding FocusNuke's capabilities (unified notes, task tracking, etc.), and to other platforms (Win rn, Tauri)
+6. WIP: Acumo (Windows/MacOS/iOS productivity app, rust backend)
 7. more...
 
 
