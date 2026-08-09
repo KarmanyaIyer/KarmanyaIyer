@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Started learning Python & C++ this year
+Contact: email or msg via linkedin
 
 ## Projects so far (in order):
 1. Transit Schedule Parser
