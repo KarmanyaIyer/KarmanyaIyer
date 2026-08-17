@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-Contact: email or msg via linkedin
 
 ## Projects so far (in order):
 1. Transit Schedule Parser
