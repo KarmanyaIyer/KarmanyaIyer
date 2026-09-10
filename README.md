@@ -9,6 +9,7 @@
 5. Gmail MCP & Chrome Browser Agent 
 6. WIP: Acumo (Windows/MacOS/iOS productivity app, rust backend)
 7. JotMark (Jot Notes + Bookmark) - Note taking extension for each webpage you visit -> [Chrome Extension](https://chrome.google.com/webstore/detail/djbdmnajkjmlbdjceelcopcipociijgk)
+8. Shrinkflation Detector (Kroger API, hosted via Azure) -> https://github.com/KarmanyaIyer/shrinkflation-detector
 
 
 
