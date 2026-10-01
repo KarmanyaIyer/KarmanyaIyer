@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-[karmanyaiyer.com](https://karmanyaiyer.com)
+Portfolio Site: [karmanyaiyer.com](https://karmanyaiyer.com)
 
 Published Chrome Extensions:
-[Focus Nuke](https://chromewebstore.google.com/detail/focus-nuke/bomnpopkmjiiibmhembapkglmpnenojg)
-[JotMark](https://chrome.google.com/webstore/detail/djbdmnajkjmlbdjceelcopcipociijgk)
+- [Focus Nuke](https://chromewebstore.google.com/detail/focus-nuke/bomnpopkmjiiibmhembapkglmpnenojg)
+- [JotMark](https://chrome.google.com/webstore/detail/djbdmnajkjmlbdjceelcopcipociijgk)
 
 
 <!--
